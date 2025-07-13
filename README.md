@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 ## Hola, soy Pablo Martín👋
 Soy un estudiante de ingeniería de sofware en U-tad y estoy combinando mis estudios con el campus 42 de Telefonica Madrid :)
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-martin-martin-0010152a9/)
+
 [![pablomar's 42 stats](https://badge.mediaplus.ma/greenbinary/pablomar)](https://github.com/oakoudad/badge42)
