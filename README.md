@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 Soy un estudiante de ingeniería de sofware en U-tad y estoy combinando mis estudios con el campus 42 de Telefonica Madrid :)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-martin-martin-0010152a9/)
+[![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-111927?style=flat&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/overview)
+
+https://app.hackthebox.com/profile/overview
 
 [![pablomar's 42 stats](https://badge.mediaplus.ma/greenbinary/pablomar)](https://github.com/oakoudad/badge42)
