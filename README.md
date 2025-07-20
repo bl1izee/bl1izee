@@ -22,3 +22,6 @@ Soy un estudiante de ingeniería de sofware en U-tad y estoy combinando mis estu
 
 
 [![pablomar's 42 stats](https://badge.mediaplus.ma/greenbinary/pablomar)](https://github.com/oakoudad/badge42)
+
+## GitHub Stats
+[![bl1izee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl1izee&show_icons=true&count_private=true)](https://github.com/bl1izee)
