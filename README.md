@@ -16,12 +16,6 @@ Combino mi formación académica con aprendizaje autodidacta, resolución de ret
 - 🤖 Interés en inteligencia artificial y aprendizaje automático.
 - 🚀 Aprendizaje continuo y desarrollo de proyectos propios.
 
-## 🎯 Objetivo profesional
-
-Busco realizar **prácticas durante el verano de 2027**, con posibilidad de incorporación posterior.
-
-Estoy interesado en oportunidades en las áreas de **Ciberseguridad, Inteligencia Artificial y DevOps**, donde pueda participar en proyectos reales, aplicar mis conocimientos y seguir desarrollando mis habilidades técnicas, pensamiento analítico y capacidad de resolución de problemas en equipo.
-
 ## 🧰 Tecnologías
 
 <p>
