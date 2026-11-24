@@ -33,18 +33,9 @@
 </p>
 
 ## 🛠️ Tecnologías & Herramientas
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css,git,github,linux,bash,vscode" alt="Skills"/>
-  </a>
-</p>
-
-## 🎓 42 Network
-
-<p align="left">
-  <img src="https://badge.mediaplus.ma/greenbinary/pablomar" alt="42 stats"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,redis" alt="Data & Cloud"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,bash" alt="Software"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Tools"/>
 
 ## 📊 Estadísticas de GitHub
 
