@@ -1,51 +1,59 @@
-<!--
-**bl1izee/bl1izee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# ¡Hola! Soy Pablo Martín 👋
 
-[![banner](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI0MzAxMjgsIm5iZiI6MTc1MjQyOTgyOCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEzVDE4MDM0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkYTIxZDY0ODY5NTVkNDNhZmZlYjJjNjdhYTI4MjVkODI4ZTNjMTczNjhlYTgzM2I4NWFhYzdjNGU0Mzc4MDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.m8Hwjy-KIb3GTmcCNskVmnBe55_g0Ce1LIwid4NH61Q)](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#moving-logos-)
-
-<h1 align="center">¡Hola! Soy Pablo Martín 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/bl1izee">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+en+U-tad;Apasionado+por+la+ciberseguridad+%F0%9F%94%90;Interesado+en+datos+%26+IA+%F0%9F%A4%96;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
-
----
+<h3 align="center">
+  Estudiante de Ingeniería de Software y Datos, interesado en Ciberseguridad e Inteligencia Artificial.
+</h3>
 
 ## 🧠 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software** en **U-tad**
-- 🔐 Interesado en **ciberseguridad**, **datos** e **inteligencia artificial**
-- 🌱 Aprendiendo y construyendo proyectos cada día
-- 📫 Contáctame por **LinkedIn**
+Soy estudiante de **Ingeniería de Software y Datos en U-tad**, con especial interés en **ciberseguridad e inteligencia artificial**.
+
+Combino mi formación académica con aprendizaje autodidacta, resolución de retos en plataformas como Hack The Box y desarrollo de proyectos propios.
+
+- 🎓 Ingeniería de Software y Datos en U-tad.
+- 🔐 Certificación **eJPT – INE Security**.
+- 🧩 Experiencia resolviendo CTFs y retos de ciberseguridad.
+- 🤖 Interés en inteligencia artificial y aprendizaje automático.
+- 🚀 Aprendizaje continuo y desarrollo de proyectos propios.
+
+## 🎯 Objetivo profesional
+
+Busco realizar **prácticas durante el verano de 2027**, con posibilidad de incorporación posterior.
+
+Estoy interesado en oportunidades en las áreas de **Ciberseguridad, Inteligencia Artificial y DevOps**, donde pueda participar en proyectos reales, aplicar mis conocimientos y seguir desarrollando mis habilidades técnicas, pensamiento analítico y capacidad de resolución de problemas en equipo.
+
+## 🧰 Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,bash" alt="Programming Languages"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,redis" alt="Data and Cloud"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode" alt="Tools"/>
+</p>
 
 ## 🌐 Conecta conmigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pablo-martin-martin-0010152a9/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://app.hackthebox.com/profile/overview">
-    <img src="https://img.shields.io/badge/-Hack%20The%20Box-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="Hack The Box"/>
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
   </a>
 </p>
 
-## 🛠️ Tecnologías & Herramientas
-<img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,redis" alt="Data & Cloud"/>
-<img src="https://skillicons.dev/icons?i=python,c,java,bash" alt="Software"/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Tools"/>
-
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bl1izee&theme=github_dark" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bl1izee&theme=github_dark" alt="GitHub Profile Details"/>
 </p>
-
 
 ---
 
 <p align="center">
-  <i>💡 "El conocimiento es poder, pero el conocimiento compartido es libertad."</i>
-</p>
+  <i>"Mi magia es no rendirme."</i>
